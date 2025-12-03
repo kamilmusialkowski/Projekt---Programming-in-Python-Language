@@ -1,2 +1,2 @@
-Autorzy: Kamil Musiałkowski, Szymon Gdański
+Autorzy: Kamil Musiałkowski, Szymon Gdański;
 Kierunek: Elektronika i Telekomunikacja 
