@@ -55,7 +55,7 @@ def visualize_iterations(X, custom_kmeans):
     if n_iterations < 2:
         return
 
-    steps_to_show = [0]  # Zawsze pierwsza iteracja
+    steps_to_show = [0]  # zawsze pierwsza iteracja
     if n_iterations > 2:
         steps_to_show.append(n_iterations // 3)
     if n_iterations > 5:
